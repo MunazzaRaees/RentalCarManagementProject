@@ -1,0 +1,1 @@
+This is a Rental Car Management System in C++ with a focus on Object-Oriented Programming (OOP). The project employs file handling, allowing data persistence for a reliable and efficient experience. Customers can effortlessly book cars, while managers oversee operations and manage the system. 
